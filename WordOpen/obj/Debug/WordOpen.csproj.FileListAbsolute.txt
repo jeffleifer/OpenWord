@@ -1,0 +1,29 @@
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\WordOpen.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\WordOpen.pdb
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\obj\Debug\WordOpen.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\obj\Debug\WordOpen.pdb
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\OpenXmlPowerTools.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\System.IO.Packaging.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\bin\Debug\System.Management.Automation.dll
+C:\scratch\vsTest\WordWebAddIn1\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\WordOpen.dll
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\WordOpen.pdb
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\OpenXmlPowerTools.dll
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\System.IO.Packaging.dll
+C:\Projects\ISTI\Progress Report\WordOpen\bin\Debug\System.Management.Automation.dll
+C:\Projects\ISTI\Progress Report\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
+C:\Projects\ISTI\Progress Report\WordOpen\obj\Debug\WordOpen.dll
+C:\Projects\ISTI\Progress Report\WordOpen\obj\Debug\WordOpen.pdb
+C:\Projects\ISTI\Progress Report\Code\WordOpen\bin\Debug\WordOpen.dll
+C:\Projects\ISTI\Progress Report\Code\WordOpen\bin\Debug\WordOpen.pdb
+C:\Projects\ISTI\Progress Report\Code\WordOpen\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Projects\ISTI\Progress Report\Code\WordOpen\obj\Debug\WordOpen.dll
+C:\Projects\ISTI\Progress Report\Code\WordOpen\obj\Debug\WordOpen.pdb
+C:\Projects\ISTI\Progress Report\Code\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\bin\Debug\WordOpen.dll
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\bin\Debug\WordOpen.pdb
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.dll
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.pdb
