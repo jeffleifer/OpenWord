@@ -38,8 +38,10 @@ namespace WordOpen
                 Id = 1,
                 ReportTemplateId = 1,
                 DetailType = DetailType.Table,
-                DetailName = "MonthlySummary",
-                SourceSql = "SELECT  ReportDate, SamplesCompleted, ReportsCompleted, AnalyticalRequests  FROM  vMonthlySummary"
+                DetailName = "Results",
+                SourceSql = "Select  MeasurandCode, InspectorValue, OperatorValue, Value FROM vResults ;"
+                // DetailName = "MonthlySummary",
+                // SourceSql =   "SELECT  ReportDate, SamplesCompleted, ReportsCompleted, AnalyticalRequests  FROM  vMonthlySummary"
             });
 
             rpt.Details.Add(new ReportDetailTemplate

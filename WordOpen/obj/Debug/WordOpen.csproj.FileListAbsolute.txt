@@ -24,6 +24,6 @@ C:\Projects\ISTI\Progress Report\Code\WordOpen\obj\Debug\WordOpen.pdb
 C:\Projects\ISTI\Progress Report\Code\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
 C:\Users\X230\Source\Repos\OpenWord\WordOpen\bin\Debug\WordOpen.dll
 C:\Users\X230\Source\Repos\OpenWord\WordOpen\bin\Debug\WordOpen.pdb
-C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
 C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.dll
 C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.pdb
+C:\Users\X230\Source\Repos\OpenWord\WordOpen\obj\Debug\WordOpen.csprojResolveAssemblyReference.cache
