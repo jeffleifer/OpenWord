@@ -39,11 +39,11 @@ namespace WordOpen
                 ReportTemplateId = 1,
                 DetailType = DetailType.Table,
                 DetailName = "Results",
-                SourceSql = "Select  MeasurandCode, InspectorValue, OperatorValue, Value FROM vResults ;"
+                SourceSql = "Select  ID, MeasurandCode, InspectorValue, OperatorValue, Value FROM vResults WHERE MeasurandCode = 'U235' ;"
                 // DetailName = "MonthlySummary",
-                // SourceSql =   "SELECT  ReportDate, SamplesCompleted, ReportsCompleted, AnalyticalRequests  FROM  vMonthlySummary"
+                //SourceSql =   "SELECT  ReportDate, SamplesCompleted, ReportsCompleted, AnalyticalRequests  FROM  vMonthlySummary"
             });
-
+            /*
             rpt.Details.Add(new ReportDetailTemplate
             {
                 Id = 2,
@@ -83,7 +83,9 @@ namespace WordOpen
                 CategoriesFieldName = "Quarter",
                 SourceSql = "SELECT  Quarter, Avg(avgDays) as avgDays FROM vAvgPie Series3 GROUP BY Quarter"
             });
+            */
             return rpt;
+            
         }
 
         private void Populate( ReportTemplate template)
